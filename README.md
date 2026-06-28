@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Pothuru Murari 👋
 
-<!--
-**Muraripothuru/Muraripothuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student | Ethical Hacking Enthusiast | Penetration Tester in Progress | Open to Internships
 
-Here are some ideas to get you started:
+### 👨‍💻 Who am I?
+Passionate about cybersecurity, ethical hacking, and securing web applications. I enjoy learning by building projects and solving security challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What am I currently working on?
+- 100 Days of Ethical Hacking Challenge
+- Web Application Security
+- Capture The Flag (CTF) Challenges
+- Building cybersecurity projects
+
+### 🛠️ Tools & Technologies
+- Kali Linux
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- Python
+- Git & GitHub
+
+### 📫 How to reach me?
+- LinkedIn: https://www.linkedin.com/in/pothuru-murari-1b6026316/
+- Email: murari.pothuru098@gmail.com
+
