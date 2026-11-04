@@ -1,25 +1,24 @@
 
+<!-- ================= PROFILE HEADER ================= -->
+
 <h1 align="center">Hi, I'm Pothuru Murari 👋</h1>
 
-<h3 align="center">
-  Cybersecurity Student | SOC & Blue Team Enthusiast
-</h3>
+<h3 align="center">Cybersecurity Student | SOC & Blue Team</h3>
 
 <p align="center">
-  Building practical skills in Security Operations,
-  Threat Detection, Log Analysis and Incident Response.
+  Building practical skills in Security Operations, Threat Detection,
+  Log Analysis and Incident Response.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Muraripothuru">
-    <img src="https://img.shields.io/badge/GitHub-Muraripothuru-181717?style=for-the-badge&logo=github" />
-  </a>
-<p align="center">
   <a href="https://www.linkedin.com/in/pothuru-murari-1b6026316/">
-    <img
-      src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with me on LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Muraripothuru">
+    <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://muraripothuru.github.io/pothuru-murari-portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-0B8278?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -27,172 +26,129 @@
 
 ## 👨‍💻 About Me
 
-I'm Pothuru Murari, a Cybersecurity student focused on
-developing practical skills in SOC Operations and Defensive Security.
+I'm a cybersecurity student focused on developing practical skills in **Security Operations (SOC), Blue Team operations and defensive security**.
 
-I believe cybersecurity is best learned through hands-on practice,
-technical investigation, continuous learning and proper documentation.
+I believe in learning through hands-on practice, technical documentation and real-world security scenarios.
 
-My primary interests include:
-
-- Security Operations Centre (SOC)
-- Blue Team Operations
-- Security Monitoring and Log Analysis
-- Threat Detection and Investigation
-- Incident Response
-- Vulnerability Assessment and Penetration Testing (VAPT)
-
-I continuously document my learning, practical exercises
-and technical findings to build a strong cybersecurity foundation.
+- 🔐 Interested in SOC Operations and Defensive Security.
+- 🔎 Practicing log analysis, network traffic analysis and threat detection.
+- 🛡️ Developing knowledge of incident response and security monitoring.
+- 💻 Learning through TryHackMe rooms and independent practical labs.
+- 📚 Documenting my cybersecurity learning journey on GitHub.
+- 🎯 Working towards a career in SOC and Blue Team operations.
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 📚 01. Cybersecurity Learning Journey
+### 1. Cybersecurity Learning Journey
 
-**My complete cybersecurity learning and documentation repository.**
+My central repository for documenting my cybersecurity learning journey, practical exercises, technical notes and progress.
 
-This repository documents my progress from cybersecurity
-fundamentals to practical SOC and Blue Team skills.
+**Topics:** Pre-Security · Cybersecurity Fundamentals · SOC Level 1 · Linux · Networking · Practical Labs
 
-What's inside:
+[![Explore Repository](https://img.shields.io/badge/EXPLORE-LEARNING%20JOURNEY-16A6D9?style=for-the-badge&logo=github)](https://github.com/Muraripothuru/cybersecurity-learning-journey)
 
-- TryHackMe learning paths and room documentation
-- Cybersecurity fundamentals
-- SOC Level 1 learning
-- Technical concepts and practical exercises
-- Linux and networking notes
-- Tools, commands and cheat sheets
-- Independent security labs
-- Interview preparation
+### 2. SOC Analyst Portfolio
 
-[Explore Cybersecurity Learning Journey →](https://github.com/Muraripothuru/cybersecurity-learning-journey)
+A practical security portfolio showcasing my work and learning in defensive security.
 
-### 🛡️ 02. SOC Analyst Portfolio
+**Focus:** Incident Investigations · Threat Hunting · SIEM Queries · Detection Rules · Network Analysis
 
-**Practical defensive security and SOC investigations.**
+[![Explore Repository](https://img.shields.io/badge/EXPLORE-SOC%20PORTFOLIO-16A6D9?style=for-the-badge&logo=github)](https://github.com/Muraripothuru/soc-analyst-portfolio)
 
-A dedicated portfolio showcasing my work and understanding
-of security operations.
+### 3. Personal Portfolio Website
 
-Areas include:
+My personal website presenting my background, technical skills, projects and cybersecurity interests.
 
-- Security incident investigations
-- Threat hunting
-- SIEM queries
-- Detection rules
-- Network analysis
-- Threat intelligence
-- Incident response
+[![Visit Portfolio](https://img.shields.io/badge/VISIT-PERSONAL%20PORTFOLIO-0B8278?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muraripothuru.github.io/pothuru-murari-portfolio/)
 
-[Explore SOC Analyst Portfolio →](https://github.com/Muraripothuru/soc-analyst-portfolio)
+### 4. Food Waste Reducer
 
-### 🌐 03. Personal Portfolio Website
+A web application designed to help reduce food waste through a simple digital solution.
 
-My professional portfolio showcasing cybersecurity skills,
-projects, learning experiences and achievements.
-
-[Explore Portfolio Repository →](https://github.com/Muraripothuru/pothuru-murari-portfolio)
-
-### 💻 04. Food Waste Reducer
-
-A Python Flask-based web application designed to help
-reduce food waste through a web-based solution.
-
-[Explore Project →](https://github.com/Muraripothuru/food-waste-reducer)
+[![Live Demo](https://img.shields.io/badge/VIEW-LIVE%20DEMO-0B8278?style=for-the-badge&logo=googlechrome&logoColor=white)](https://food-waste-reducer-production.up.railway.app)
+[![GitHub](https://img.shields.io/badge/SOURCE-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muraripothuru/food-waste-reducer)
 
 ---
 
-## 🎯 Core Technical Focus
+## 🛡️ Core Technical Focus
 
-| Domain | Areas of Interest |
+| Area | Focus |
 |---|---|
-| SOC Operations | Alert triage and investigation |
-| Blue Team | Defensive security operations |
-| SIEM | Security event monitoring |
-| Log Analysis | Windows, Linux and network logs |
+| SOC Operations | Security monitoring and alert investigation |
+| Log Analysis | Windows and Linux log analysis |
 | Threat Detection | Identifying suspicious activities |
-| Incident Response | Investigation and response |
-| VAPT | Vulnerability assessment and web security |
+| Incident Response | Investigation and documentation |
+| Network Security | Network traffic analysis |
+| Web Security | Vulnerability assessment and testing |
+| Defensive Security | Blue Team concepts and MITRE ATT&CK |
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🧰 Tools & Technologies
 
-### 🔍 SIEM & Security Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3A86FF?style=flat&logo=wazuh&logoColor=white)
+**Security & Network Analysis**
 
-### 🛡️ SOC & Blue Team Operations
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-EF3E42?style=flat)
-![YARA](https://img.shields.io/badge/YARA-2D6A4F?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
+</p>
 
-### 📊 Network & Traffic Analysis
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=linux&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-2563EB?style=flat)
+**Operating Systems & Development**
 
-### 💻 Operating Systems & Log Analysis
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-### 🔐 Threat Intelligence & Incident Response
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat)
-![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-333333?style=flat)
+**SOC & Blue Team Learning Focus**
 
-### 🧪 Vulnerability Assessment & Web Security
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
-
-### ⚙️ Scripting & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-*Tools and technologies are continuously being explored
-and practised through hands-on learning.*
+- SIEM and security monitoring
+- Windows Event Logs
+- Threat detection and investigation
+- MITRE ATT&CK framework
+- Incident response and documentation
 
 ---
 
-## 📖 Current Learning Focus
+## 📚 Currently Learning
 
-- SOC Operations and Security Monitoring
-- SIEM Fundamentals and Log Analysis
-- Threat Detection and Threat Hunting
-- Windows and Linux Security Events
-- Network Traffic Analysis
-- Incident Investigation and Response
-- Blue Team Practical Labs
+- Strengthening SOC Level 1 concepts.
+- Practicing security investigations and log analysis.
+- Improving Linux and networking fundamentals.
+- Learning defensive security techniques.
+- Building practical cybersecurity documentation.
 
 ---
 
-## 📈 My Learning Philosophy
+## 📊 My Learning Philosophy
 
-> Learn continuously. Practise consistently. Document everything. Improve every day.
+> Learn continuously. Practice consistently. Document everything. Improve every day.
 
-I focus on understanding how technologies work,
-how security threats behave, how suspicious activities
-can be identified and how incidents can be investigated.
-
-My goal is to grow into a skilled SOC / Blue Team professional
-through consistent practical learning.
+I focus on understanding security concepts through practical exercises rather than just collecting tools or certifications.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with cybersecurity
-professionals, SOC analysts and security enthusiasts.
-
-- GitHub: [@Muraripothuru](https://github.com/Muraripothuru)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/pothuru-murari-1b6026316/)
-
----
+I'm always interested in connecting with cybersecurity learners, SOC professionals and the wider security community.
 
 <p align="center">
-  <b>Learning • Practising • Investigating • Improving</b>
+  <a href="https://www.linkedin.com/in/pothuru-murari-1b6026316/">
+    <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:murari.pothuru098@gmail.com">murari.pothuru098@gmail.com</a>
+</p>
+
+<p align="center">
+  <i>Building my cybersecurity journey, one practical step at a time.</i>
 </p>
