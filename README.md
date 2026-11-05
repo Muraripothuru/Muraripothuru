@@ -17,7 +17,7 @@
   <a href="https://github.com/Muraripothuru">
     <img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://muraripothuru.github.io/pothuru-murari-portfolio/">
+  <a href="https://pothuru-murari-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-0B8278?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
